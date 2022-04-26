@@ -39,9 +39,16 @@ Scipy has a sub-package dedicated to interpolation. Scipy.interpolate offers fun
 	
 _(data can be found at https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.072018.6635.1)_
 	
-* Original
-* Subsample
-* test
+***Original view of Kilauea***
+![og](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/og_1.PNG)	
+***Subsampled version of Kilauea***
+![subsample](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/experiment/subsampled_1.jpeg)
+***Kilauea Linear Interpolation***
+![linear](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/linear_1.PNG)
+***Kilauea Nearest Neighbor Interpolation***
+![nn](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/nn_1.PNG)
+***Kilauea Cubic Interpolation***
+![cubic](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/cubic_1.PNG)
 
 #### These tests feature data about 
 	

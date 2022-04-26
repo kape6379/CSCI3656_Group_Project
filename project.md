@@ -1,7 +1,11 @@
 # Group Project: Interpolation on Topographic Data using Scipy
 Eben Fluto, Kai Schuyler Gonzalez, Kate Pendavinji, Richard Terrile
 ## Background
-(Brief description of what everyone originally did and why we decided to do the experiment we did) 
+(Brief description of what everyone originally did and why we decided to do the experiment we did)
+Eben:
+Kai:
+Kate:
+Richard:
 
 ## Key Problems
 (Discuss scipy package)

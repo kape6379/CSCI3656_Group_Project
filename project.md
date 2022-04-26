@@ -24,7 +24,7 @@ SciPy is a package which allows you to apply various algorithms and functions on
     * They provide open source management to help maintain large open source projects including SciPy.
 
 ## Utilized Features
-Scipy has a sub-package dedicated to interpolation. Scipy.interpolate offers functions that can interpolate in many dimensions utilizing various. For our project we utilized three functions. 
+Scipy has a sub-package dedicated to interpolation. Scipy.interpolate offers functions that can interpolate in many dimensions utilizing various methods. For our project we utilized three functions. 
 - # scipy.interpolate.NearestNDInterpolator
 	<p> This function performs a simple nearest neighbors interpolation in any dimension.</p>
 - # scipy.interpolate.LinearNDInterpolator

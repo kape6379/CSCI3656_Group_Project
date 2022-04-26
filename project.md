@@ -7,12 +7,12 @@ Eben:
 
 Kai:
 
-Kate: 
+Kate: My initial individual exploration was surrounding the package LaplaceInterpolation.jl. It focused on fast interpolation on a grid which led me to want to look into interpolating topographic data due to its real world applicability. 
 
 Richard:
 
 ## Key Problems
-SciPy is a package which allows you to apply various algorithms and functions onto data sets using Python. Our focal point of exploration is to be able to use SciPy's interpolation subpackage on data sets featuring information on topography of various formations such as volcanoes and _blank_. We will be performing linear, nearest neighbor, and cubic interpolation on these data sets to view a three dimensional representation of the topography of the formations which we selected. While running these tests we hope to see where these subpackage fail and succeeds. 
+SciPy is a package which allows you to apply various algorithms and functions onto data sets using Python. Our focal point of exploration is to be able to use SciPy's interpolation subpackage on data sets featuring information on topography of various formations such as volcanoes and _blank_. We will be performing linear, nearest neighbor, and cubic interpolation on these data sets to view a three dimensional representation of the topography of the formations which we selected. While running these tests we hope to see where these subpackage fail and succeeds. We will also be compressing our data to produce smaller-scale examples of our interpolation experimentation. 
 
 ## Stakeholders
 * SciPy is open source and has over 1000 contributors on GitHub.

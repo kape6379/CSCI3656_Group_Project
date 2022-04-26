@@ -12,7 +12,7 @@ Kate: My initial individual exploration was surrounding the package LaplaceInter
 Richard: My individual project looked into the ODES scikit extension. My idea was to look into the rootfinding and preconditioning capabilities and compare its accuracy and speed to basic scikit implementations.
 
 ## Key Problems
-SciPy is a package which allows you to apply various algorithms and functions onto data sets using Python. Our focal point of exploration is to be able to use SciPy's interpolation subpackage on data sets featuring information on topography of various formations such as volcanoes and _blank_. We will be performing linear, nearest neighbor, and cubic interpolation on these data sets to view a three dimensional representation of the topography of the formations which we selected. While running these tests we hope to see where these subpackage fail and succeeds. We will also be compressing our data to produce smaller-scale examples of our interpolation experimentation. 
+SciPy is a package which allows you to apply various algorithms and functions onto data sets using Python. Our focal point of exploration is to be able to use SciPy's interpolation subpackage on data sets featuring information on topography of various formations such as volcanoes. We will be performing linear, nearest neighbor, and cubic interpolation on these data sets to view a three dimensional representation of the topography of the formations which we selected. While running these tests we hope to see where these subpackage fail and succeeds. We will also be compressing our data to produce smaller-scale examples of our interpolation experimentation. 
 
 ## Stakeholders
 * SciPy is open source and has over 1000 contributors on GitHub.
@@ -48,11 +48,3 @@ _(data can be found at https://portal.opentopography.org/datasetMetadata?otColle
 ![nn](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/nn_1.PNG)
 ***Kilauea Cubic Interpolation***
 ![cubic](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/cubic_1.PNG)
-
-#### These tests feature data about 
-	
-_(data can be found at https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.072018.6635.1)_
-	
-* Original
-* Subsample
-* test

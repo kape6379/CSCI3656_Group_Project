@@ -5,7 +5,7 @@ Eben Fluto, Kai Schuyler Gonzalez, Kate Pendavinji, Richard Terrile
 
 Eben: My individual explorition was on gimp and how gimp utilizes interpolation to rescale images.
 
-Kai:
+Kai: I was interested in this project because of the activity we did on Interpolation back in March. Since SciPy is so widely used, I was curious to see it implemented with real world data.
 
 Kate: My initial individual exploration was surrounding the package LaplaceInterpolation.jl. It focused on fast interpolation on a grid which led me to want to look into interpolating topographic data due to its real world applicability. 
 

@@ -12,7 +12,7 @@ Kate:
 Richard:
 
 ## Key Problems
-(Discuss scipy package)
+SciPy is a package which allows you to apply various algorithms and functions onto data sets using Python. Our focal point of exploration is to be able to use SciPy's interpolation subpackage on data sets featuring information on topography of various formations such as volcanoes and _blank_. We will be performing linear, nearest neighbor, and cubic interpolation on these data sets to view a three dimensional representation of the topography of the formations which we selected. While running these tests we hope to see where these subpackage fail and succeeds. 
 
 ## Stakeholders
 (who made scipy)

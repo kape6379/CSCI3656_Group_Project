@@ -28,7 +28,7 @@ Scipy has a sub-package dedicated to interpolation. Scipy.interpolate offers fun
 - # scipy.interpolate.NearestNDInterpolator
 	<p> This function performs a simple nearest neighbors interpolation in any dimension.</p>
 - # scipy.interpolate.LinearNDInterpolator
-	<p> This function performs a piecewise barycentric linear interpolation in any dimension. For our example we can think of this in the following. If we have all our points in 3d this function is going to connect all these points together by constructing a triangular grid. Then when we wish to get the value for a new point within a certain triangle in the grid we take the weighted average of the objective values at the three vertices based on distance.  Here is an image that helps visualize this process. ![picture](barycentric_interpolation.png) </p>
+	<p> This function performs a piecewise barycentric linear interpolation in any dimension. For our example we can think of this in the following. If we have all our points in 3d this function is going to connect all these points together by constructing a triangular grid. Then when we wish to get the value for a new point within a certain triangle in the grid we take the weighted average of the objective values at the three vertices based on distance.  Here is an image that helps visualize this process. ![barycentric](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/barycentric_interpolation.png) </p>
 - # scipy.interpolate.CloughTocher2DInterpolator
 	<p> This works similar to the linear interpolator. It triangularizes the data but interpolates points within using bezier polynomials.
 
@@ -39,12 +39,17 @@ Scipy has a sub-package dedicated to interpolation. Scipy.interpolate offers fun
 _(data can be found at https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.072018.6635.1)_
 	
 ***Original view of Kilauea***
-![og](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/og_1.PNG)	
+![og](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/og_1.PNG)
+![og](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/og_2.PNG)
 ***Subsampled version of Kilauea***
 ![subsample](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/experiment/subsampled_1.jpeg)
+![subsample](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/experiment/subsampled_2.jpeg)
 ***Kilauea Linear Interpolation***
 ![linear](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/linear_1.PNG)
+	![linear](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/linear_2.PNG)
 ***Kilauea Nearest Neighbor Interpolation***
 ![nn](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/nn_1.PNG)
+![nn](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/nn_2.PNG)
 ***Kilauea Cubic Interpolation***
 ![cubic](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/cubic_1.PNG)
+![cubic](https://github.com/kape6379/CSCI3656_Group_Project/blob/main/cubic_2.PNG)

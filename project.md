@@ -33,7 +33,6 @@ Scipy has a sub-package dedicated to interpolation. Scipy.interpolate offers fun
 	<p> This works similar to the linear interpolator. It triangularizes the data but interpolates points within using bezier polynomials.
 
 ## Experiment
-(insert images descerbe what they mean)
 
 #### These tests feature data about Kilauea Volcano in Hawaii
 	

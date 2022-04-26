@@ -15,9 +15,15 @@ Eben Fluto, Kai Schuyler Gonzalez, Kate Pendavinji, Richard Terrile
 ## Experiment
 (insert images descerbe what they mean)
 (extremely vague notes i wrote from talking to jed:
+
 Look for linear and gaussian 
-Compress data for non equally spaced points smooth function to evaluate accuracy ? Connect smooth problem how accurate is method
+
+Compress data for non equally spaced points smooth function to evaluate accuracy
+
+Connect smooth problem how accurate is method
 
 Mention biases of training data
+
 Sometimes it fills in pieces well sometimes not
+
 What are ways it fails in surprising ways)

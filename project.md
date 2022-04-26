@@ -17,7 +17,7 @@ Richard:
 ## Stakeholders
 (who made scipy)
 
-## Metrics and Features
+## Utilized Features
 Scipy has a sub-package dedicated to interpolation. Scipy.interpolate offers functions that can interpolate in many dimensions utilizing various. For our project we utilized three functions. 
 - # scipy.interpolate.NearestNDInterpolator
 	<p> This function performs a simple nearest neighbors interpolation in any dimension.</p>

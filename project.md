@@ -34,3 +34,19 @@ Scipy has a sub-package dedicated to interpolation. Scipy.interpolate offers fun
 
 ## Experiment
 (insert images descerbe what they mean)
+
+#### These tests feature data about Kilauea Volcano in Hawaii
+	
+_(data can be found at https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.072018.6635.1)_
+	
+* Original
+* Subsample
+* test
+
+#### These tests feature data about 
+	
+_(data can be found at https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.072018.6635.1)_
+	
+* Original
+* Subsample
+* test

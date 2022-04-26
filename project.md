@@ -3,7 +3,7 @@ Eben Fluto, Kai Schuyler Gonzalez, Kate Pendavinji, Richard Terrile
 ## Background
 (Brief description of what everyone originally did and why we decided to do the experiment we did)
 
-Eben:
+Eben: My individual explorition was on gimp and how gimp utilizes interpolation to rescale images.
 
 Kai:
 
